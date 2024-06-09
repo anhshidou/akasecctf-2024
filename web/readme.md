@@ -1,2 +1,2 @@
-Solved: Upload
-Not solved: Proxy for life
+- Solved: Upload
+- Not solved: Proxy for life
