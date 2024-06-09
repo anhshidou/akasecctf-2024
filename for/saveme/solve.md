@@ -10,6 +10,8 @@ Lúc này, sẽ xuất hiện đoạn nhìn có vẻ là hexa và được ngăn
 
 Vậy đây là 1 file Executable, chắc chắn đây sẽ là điểm mấu chốt. Lúc này vì mình không có máy ảo là windows nên mình sử dụng app.any.run để kiểm tra nó hoạt động như nào
 
+``` https://app.any.run/tasks/3b474515-dc8e-4019-985a-152bfbc518df/ ```
+
 ![image](https://github.com/anhshidou/akasecctf-2024/assets/120787381/f1794b20-dae3-4239-91d5-5d6b113aa141)
 
 Vậy ở đây mình thấy 1 đường link HTTP còn active. Vì vậy nên mình thử tải file này về
