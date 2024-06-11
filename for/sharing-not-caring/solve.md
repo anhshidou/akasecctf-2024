@@ -12,4 +12,12 @@ Lúc này sẽ có 1 file tên là FREE_Ram.exe. Như bài trước mình sử d
 
 ![image](https://github.com/anhshidou/akasecctf-2024/assets/120787381/0f4ffcc9-efd6-4d60-abc8-dc8504006b9b)
 
-Sau khi vào sslkey.log mình thấy có rất nhiều traffic secret. Tiếp tục quay về file pcapng
+Sau khi vào sslkey.log mình thấy có rất nhiều traffic secret. Tiếp tục quay về file pcapng. Sau đó add masterkey log file của sslkey bằng: Edit -> Preferences -> Protocols -> TLS -> Pre Masterkey logfile
+
+![image](https://github.com/anhshidou/akasecctf-2024/assets/120787381/0c57e260-adcf-4af5-9131-a3f561c749c5)
+
+Sau khi upload file sslkey xong, mình thấy rằng có một protocol mới là http2. Lúc này thì chỉ cần tìm là sẽ thấy flag
+
+![image](https://github.com/anhshidou/akasecctf-2024/assets/120787381/ae6f2aff-c849-4037-ba54-130b34740763)
+
+**Flag: AKASEC{B4s1c_M4lw4r3_4nd_PC4P_4n4lys1s}**
