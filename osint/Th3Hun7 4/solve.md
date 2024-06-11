@@ -17,5 +17,5 @@ Nhưng có vẻ như ở đây không có gì cả, dù mình có tìm cả 2 c�
 **Ở X: l3ar4nda5**
 **Github: l3rnds**
 
-Thế nên mình nghĩ có gì đó mờ ảo ở đây. Lúc này mình thử search l3rnds xem có gì không vì l3rnda5 không hiện gì cả.
+Thế nên mình nghĩ có gì đó mờ ảo ở đây. Lúc này mình thử search l3rnds xem có gì không vì l3rnda5 không hiện gì cả. Rốt cuộc là cũng không có gì, và mình hoàn toàn bị stuck ở bước này
 
