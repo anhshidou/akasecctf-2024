@@ -1,4 +1,4 @@
-![image](https://github.com/anhshidou/akasecctf-2024/assets/90485791/8e3e695f-00ee-45e0-983a-9cf3662ce62a)# Source
+# Source
 
 ```
 from random import getrandbits
